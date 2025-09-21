@@ -1,0 +1,6 @@
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/TarefasApiUninterApplication.java
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/controller/TarefaController.java
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/exception/GlobalExceptionHandler.java
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/exception/ResourceNotFoundException.java
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/model/Tarefa.java
+/home/talita/Downloads/tarefas-api-uninter/src/main/java/com/_8/tarefas_api_uninter/repository/TarefaRepository.java

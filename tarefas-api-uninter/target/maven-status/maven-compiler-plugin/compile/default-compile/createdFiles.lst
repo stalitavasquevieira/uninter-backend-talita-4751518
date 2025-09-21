@@ -1,0 +1,6 @@
+com/_8/tarefas_api_uninter/controller/TarefaController.class
+com/_8/tarefas_api_uninter/repository/TarefaRepository.class
+com/_8/tarefas_api_uninter/TarefasApiUninterApplication.class
+com/_8/tarefas_api_uninter/model/Tarefa.class
+com/_8/tarefas_api_uninter/exception/ResourceNotFoundException.class
+com/_8/tarefas_api_uninter/exception/GlobalExceptionHandler.class
